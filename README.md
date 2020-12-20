@@ -12,3 +12,6 @@
 -   run <code>composer install</code>
 -   run <code>php artisan serve</code> to start the app
 -   run <code>php artisan schedule:run</code> and <code>php artisan queue:work</code> to start processing jobs on the queue as a daemon
+
+# Postman Doc
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/d3d9822ea67c11a2a8f8) 
